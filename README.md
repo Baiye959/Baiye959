@@ -1,4 +1,4 @@
-## 我是Baiye959（个人主页施工中）
+## 我是Baiye959
 
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
 - 🏡 作品： <a href="https://github.com/Baiye959/Github-recommend-system" target="_blank">github仓库推荐系统🔍</a> | <a href="https://github.com/Baiye959/user-center" target="_blank">用户管理中心🚀</a>
