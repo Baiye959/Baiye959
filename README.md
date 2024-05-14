@@ -16,7 +16,7 @@
 
 ## 今年汇总(This year's summary) ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Baiye959&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=7EC760,38B177&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baiye959&hide_title=true&hide_border=true&layout=compact&bg_color=38B177,00A88E,00959F&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Baiye959&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,7EC760,38B177&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baiye959&hide_title=true&hide_border=true&layout=compact&bg_color=38B177,00A88E&theme=graywhite&locale=cn" />
 ### 开发的项目(developed projects)
 
 - 业务项目(business projects)
