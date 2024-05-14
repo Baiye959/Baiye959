@@ -1,6 +1,6 @@
 ## 我是Baiye959
 
-- 🌹 I am a Java developer with two and a half years of practice 🐵.
+- 🌹 Hey there! I'm Baiye959, your friendly neighborhood Java backend enthusiast, on a mission to turn caffeine into code and bugs into features!
 - 🏡 作品： <a href="https://github.com/Baiye959/Github-recommend-system" target="_blank">github仓库推荐系统🔍</a> | <a href="https://github.com/Baiye959/user-center" target="_blank">用户管理中心🚀</a>
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/Baiye959)、[个人网站💤](https://baiye959.cn) 
 
