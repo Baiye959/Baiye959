@@ -20,6 +20,7 @@
 ### 开发的项目(developed projects)
 
 - 业务项目(business projects)
+  - [青少年代码交流网站CodeShare🌟](https://github.com/Baiye959/CodeShare)
   - [Github仓库推荐系统🔍](https://github.com/Baiye959/Github-recommend-system)
   - [用户管理中心🚀](https://github.com/Baiye959/user-center)
 
