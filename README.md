@@ -1,7 +1,7 @@
 ## 我是Baiye959
 
 - 🌹 Hey there! I'm Baiye959, your friendly neighborhood Java backend enthusiast, on a mission to turn caffeine into code and bugs into features!
-- 🏡 作品： <a href="https://github.com/Baiye959/Github-recommend-system" target="_blank">Github仓库大数据推荐系统🔍</a> | <a href="https://github.com/Baiye959/user-center" target="_blank">用户管理中心🚀</a>
+- 🏡 作品： <a href="https://github.com/Baiye959/Github-recommend-system" target="_blank">Github仓库大数据推荐系统📊</a> | <a href="https://github.com/Baiye959/user-center" target="_blank">用户管理中心🚀</a>
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/Baiye959)、[个人网站💤](https://baiye959.cn) 
 
 
@@ -21,11 +21,11 @@
 
 - 业务项目(business projects)
   - [青少年代码交流网站CodeShare🌟](https://github.com/Baiye959/CodeShare)
-  - [Github仓库推荐系统🔍](https://github.com/Baiye959/Github-recommend-system)
+  - [Github仓库推荐系统📊](https://github.com/Baiye959/Github-recommend-system)
   - [用户管理中心🚀](https://github.com/Baiye959/user-center)
 
 - 组件项目(component projects)
-  开发中...
+  - [数据库查询工具🔍](https://github.com/Baiye959/JDBCTools)
 
 
 
