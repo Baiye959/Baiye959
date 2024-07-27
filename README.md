@@ -21,14 +21,13 @@
 ### 开发的项目(developed projects)
 
 - 业务项目(business projects)
-  - [猫咪喂养APP Cat Feed🐱](https://github.com/Baiye959/Cat-Feed)
-  - [青少年代码交流网站CodeShare🌟](https://github.com/Baiye959/CodeShare)
-  - [Github仓库推荐系统📊](https://github.com/Baiye959/Github-recommend-system)
-  - [用户管理中心🚀](https://github.com/Baiye959/user-center)
+  - [猫咪喂养APP Cat Feed🐱(Android APP: Jetpack Compose + Kotlin)](https://github.com/Baiye959/Cat-Feed)
+  - [青少年代码交流网站CodeShare🌟(Web: Vue + Spring Boot)]https://github.com/Baiye959/CodeShare)
+  - [Github仓库推荐系统📊(Web: Flask + PySpark)](https://github.com/Baiye959/Github-recommend-system)
+  - [用户管理中心🚀(Web: Spring Boot)](https://github.com/Baiye959/user-center)
 
 - 组件项目(component projects)
-  - [数据库查询工具🔍](https://github.com/Baiye959/JDBCTools)
-
+  - [数据库查询工具🔍(Java)](https://github.com/Baiye959/JDBCTools)
 
 
 ### 🎉 Get in touch
