@@ -22,7 +22,7 @@
 
 - 业务项目(business projects)
   - [猫咪喂养APP Cat Feed🐱(Android APP: Jetpack Compose + Kotlin)](https://github.com/Baiye959/Cat-Feed)
-  - [青少年代码交流网站CodeShare🌟(Web: Vue + Spring Boot)]https://github.com/Baiye959/CodeShare)
+  - [青少年代码交流网站CodeShare🌟(Web: Vue + Spring Boot)](https://github.com/Baiye959/CodeShare)
   - [Github仓库推荐系统📊(Web: Flask + PySpark)](https://github.com/Baiye959/Github-recommend-system)
   - [用户管理中心🚀(Web: Spring Boot)](https://github.com/Baiye959/user-center)
 
